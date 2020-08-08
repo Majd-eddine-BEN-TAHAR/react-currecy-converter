@@ -1,3 +1,4 @@
+## For live preview visit : [majd.react-currency-converter](https://majd-eddine-ben-tahar.github.io/react-currecy-converter/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
